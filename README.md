@@ -109,18 +109,6 @@ The app calculates how many days remain until each milestone deadline.
 
 ---
 
-## 📸 Application Preview
-
-> Screenshots can be added here after capturing the main menu, employee page, task page, and milestone window.
-
-```text
-Main Menu → Employees Section / Tasks Section
-Employees Section → Add / Edit / Delete Employees
-Tasks Section → Add / Edit / Delete Tasks + Add Milestones
-```
-
----
-
 ## 👨‍💻 Author
 
 **Mohammad Barabadi**
