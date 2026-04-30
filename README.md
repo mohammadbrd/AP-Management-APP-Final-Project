@@ -109,11 +109,11 @@ The app calculates how many days remain until each milestone deadline.
 
 ---
 
-## 👨‍💻 Author
+## 👤 Author
 
-**Mohammad Barabadi**
-
-GitHub: [@mohammadbrd](https://github.com/mohammadbrd)
+**Mohammad Barabadi**  
+GitHub: [@mohammadbrd](https://github.com/mohammadbrd)  
+Linkedin: [@mohammadbrd](https://www.linkedin.com/in/mohammadbrd/)
 
 ---
 
