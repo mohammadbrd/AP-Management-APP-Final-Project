@@ -80,49 +80,6 @@ This project was developed as a final project and demonstrates GUI programming, 
 
 ---
 
-## 📁 Project Structure
-
-```text
-AP-Management-APP-Final-Project/
-│
-├── main.py              # Main application logic
-├── QT.ui                # Main menu window UI
-├── Employee.ui          # Employee form UI
-├── Task.ui              # Task form UI
-├── MileStone.ui         # Milestone form UI
-├── db.pickle            # Local database file
-├── helping db.pickle    # Helper database file
-├── Report.pdf           # Project report
-└── README.md            # Project documentation
-```
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/mohammadbrd/AP-Management-APP-Final-Project.git
-cd AP-Management-APP-Final-Project
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install PyQt5
-```
-
-### 3. Run the Application
-
-```bash
-python main.py
-```
-
-> Make sure all `.ui` files and `db.pickle` are in the same directory as `main.py`.
-
----
-
 ## 🕹️ How to Use
 
 ### Main Menu
@@ -149,34 +106,6 @@ In this section, you can:
 ### Milestones
 Each task can include milestones with individual dates.  
 The app calculates how many days remain until each milestone deadline.
-
----
-
-## 🧠 What I Learned
-
-This project helped practice important programming concepts such as:
-
-- Building desktop applications with PyQt5
-- Designing GUI windows using Qt Designer
-- Connecting buttons and widgets to Python functions
-- Using classes to model employees, tasks, and milestones
-- Saving and loading local data with pickle
-- Working with tables, dates, forms, and user input validation
-- Structuring a small management system around real application logic
-
----
-
-## 🔮 Possible Future Improvements
-
-- Replace pickle storage with SQLite database
-- Add login and user roles
-- Add search and filter options
-- Add task status tracking
-- Add dashboard statistics
-- Improve input validation
-- Add export to CSV or PDF
-- Package the app as an executable file
-- Improve UI responsiveness and layout scaling
 
 ---
 
